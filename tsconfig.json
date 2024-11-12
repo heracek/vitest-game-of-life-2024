@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "types": ["vitest/globals"],
+    "target": "es2020",
+    "module": "nodenext",
+    "strict": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "verbatimModuleSyntax": true
+  },
+  "include": ["src", "test"],
+  "exclude": ["node_modules"]
+}
